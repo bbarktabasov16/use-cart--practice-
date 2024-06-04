@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/use-cart--practice-/static/css/main.d5289b2f.css",
+    "main.js": "/use-cart--practice-/static/js/main.719ba3e8.js",
+    "static/media/img1.jpg": "/use-cart--practice-/static/media/img1.1a13187b0ab001e2f73c.jpg",
+    "index.html": "/use-cart--practice-/index.html",
+    "main.d5289b2f.css.map": "/use-cart--practice-/static/css/main.d5289b2f.css.map",
+    "main.719ba3e8.js.map": "/use-cart--practice-/static/js/main.719ba3e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.719ba3e8.js"
+  ]
+}
